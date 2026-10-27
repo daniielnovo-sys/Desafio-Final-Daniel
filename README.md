@@ -15,7 +15,6 @@ backup_omnichannel.sql – Backup completo do banco de dados MySQL.
 README.md – Documentação do projeto.
 Outros scripts SQL desenvolvidos nas etapas anteriores.
 Autor
-Carlos Daniel
-
+Daniel Santos
 Observação
 Este repositório é destinado à entrega da atividade acadêmica. As credenciais de acesso aos bancos de dados não foram incluídas por segurança.
